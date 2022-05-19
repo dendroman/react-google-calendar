@@ -6,8 +6,6 @@ import PropTypes from "prop-types";
 import moment from "moment-timezone";
 import { RRule, RRuleSet, rrulestr } from "rrule";
 
-import "./index.css";
-
 import Event from "./event";
 import MultiEvent from "./multiEvent";
 
