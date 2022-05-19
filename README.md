@@ -16,7 +16,7 @@ Design inspired by [this calendar](https://codepen.io/knyttneve/pen/QVqyNg) and 
 
 ```
 1. npm install --save react react-dom @emotion/react
-2. npm install --save @ericz1803/react-google-calendar
+2. npm install --save @dendroman/react-google-calendar
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ You can find it by going to a calendar's settings and scrolling down to the sect
 
 ```js
 import React from "react";
-import Calendar from "@ericz1803/react-google-calendar";
+import Calendar from "@dendroman/react-google-calendar";
 
 const API_KEY = "YOUR_API_KEY";
 let calendars = [

@@ -1,5 +1,5 @@
 {
-  "name": "@ericz1803/react-google-calendar",
+  "name": "@dendroman/react-google-calendar",
   "version": "4.2.1",
   "description": "React Google Calendar Component",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericz1803/react-google-calendar.git"
+    "url": "git+https://github.com/dendroman/react-google-calendar.git"
   },
   "author": "Eric Zhou",
   "license": "MIT",
